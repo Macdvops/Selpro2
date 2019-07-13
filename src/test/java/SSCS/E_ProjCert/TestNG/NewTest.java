@@ -16,7 +16,7 @@ public class NewTest {
 	      System.setProperty("webdriver.chrome.driver","chromedriver.exe");
 	      
 	      driver.manage().window().maximize();
-	      driver.get("http://35.192.153.89:32768/");     
+	      driver.get("http://35.192.153.89:8031/");     
 	  }
 	  
 	  @Test
